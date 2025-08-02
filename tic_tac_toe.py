@@ -18,7 +18,7 @@ def update_board(choice,symbol):
         return True
     else:
         print('space is already occupied')
-        return False
+       
         
 
 
